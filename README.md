@@ -40,14 +40,14 @@ Evaluation and metric calculations
 
 Optional visualizations and performance logs
 
-##💡 Notes
-The dataset is not included in this repository due to size constraints. You may find a compressed version (e.g., data.zip) instead.
+## 💡 Notes
+The dataset is not included in this repository due to size constraints.
 
 Be sure to update all dataset paths before running the scripts.
 
 GPU (CUDA) support is recommended for faster training but not required.
 
-##📜 License
+## 📜 License
 This project is intended for academic and educational use only. Please refer to the Kaggle dataset license for usage rights.
 
 
